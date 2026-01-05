@@ -39,21 +39,15 @@ Gaming Zone is a web-based gaming website developed using HTML, CSS, and JavaScr
 
 ---
 
-## 5. How to Run
-1. Download or copy all project files into a folder named `Gaming_Zone_Mini_Project`.  
-2. Open `index.html` in any modern browser.  
-3. Enter a username and click **Login**.  
-4. Navigate to the dashboard to access games.  
-5. Scores are automatically tracked and displayed in the leaderboard.  
+
+1. Enter a username and click **Login**.  
+2. Navigate to the dashboard to access games.  
+3. Scores are automatically tracked and displayed in the leaderboard.  
 
 ---
 
 ## 6. Future Enhancements
 - Add more games (e.g., Tic Tac Toe, Puzzle, Quiz with multiple questions)  
-- Add user authentication with database  
-- Add more advanced Snake game using Canvas  
-- Add background music  
-- Host online using GitHub Pages or Netlify  
 
 ---
 
